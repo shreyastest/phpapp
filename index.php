@@ -1,1 +1,7 @@
-<html><body><h1><?='Hello brother eb!'?></h1></body></html>
+<html>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello World</p>'; ?>
+ </body>
+</html>
